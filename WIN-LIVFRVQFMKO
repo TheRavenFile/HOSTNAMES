@@ -2,7 +2,7 @@ INTEL
 =====
 📌This is a shared infrastructure of Ransomware Players
 📌In 2019, the same host was used in LockBit
-📌In 2024, BlackCat used this infra for infection
+📌In 2024, BlackCat and Qilin used this infra for infection
 📌Also used by Medusa Locker Group
 📌The hostname was also linked to "Bentley" who was the technical lead and system administrator for the Conti Ransomware (Wizard Spider) group
 📌In 2025 March, it is used by EncryptHub Group on their platform: EncryptRAT
